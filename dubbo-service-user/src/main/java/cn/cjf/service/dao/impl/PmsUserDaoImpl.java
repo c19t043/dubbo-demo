@@ -1,6 +1,6 @@
 package cn.cjf.service.dao.impl;
 
-import cn.cjf.common.entity.PmsUser;
+import cn.cjf.facade.entity.PmsUser;
 import cn.cjf.service.core.dao.BaseDaoImpl;
 import cn.cjf.service.dao.PmsUserDao;
 import org.springframework.stereotype.Repository;

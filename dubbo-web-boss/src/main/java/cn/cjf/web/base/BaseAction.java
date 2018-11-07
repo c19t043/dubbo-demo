@@ -1,7 +1,7 @@
 package cn.cjf.web.base;
 
 
-import cn.cjf.common.entity.PmsUser;
+import cn.cjf.facade.entity.PmsUser;
 import cn.cjf.web.common.constant.SessionConstant;
 import cn.cjf.web.common.struts.Struts2ActionSupport;
 

@@ -1,6 +1,6 @@
-package cn.cjf.facade;
+package cn.cjf.facade.biz;
 
-import cn.cjf.common.entity.PmsUser;
+import cn.cjf.facade.entity.PmsUser;
 import cn.cjf.common.page.PageBean;
 import cn.cjf.common.page.PageParam;
 

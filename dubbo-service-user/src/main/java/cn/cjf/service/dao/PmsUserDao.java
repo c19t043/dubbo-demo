@@ -1,7 +1,7 @@
 package cn.cjf.service.dao;
 
 
-import cn.cjf.common.entity.PmsUser;
+import cn.cjf.facade.entity.PmsUser;
 import cn.cjf.service.core.dao.BaseDao;
 
 /**

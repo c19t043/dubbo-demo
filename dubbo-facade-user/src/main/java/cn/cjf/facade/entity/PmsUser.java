@@ -1,4 +1,6 @@
-package cn.cjf.common.entity;
+package cn.cjf.facade.entity;
+
+import cn.cjf.common.entity.BaseEntity;
 
 import java.util.Date;
 

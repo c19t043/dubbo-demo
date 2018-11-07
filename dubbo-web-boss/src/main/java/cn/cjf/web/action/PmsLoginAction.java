@@ -1,7 +1,7 @@
 package cn.cjf.web.action;
 
-import cn.cjf.common.entity.PmsUser;
-import cn.cjf.facade.PmsUserFacade;
+import cn.cjf.facade.entity.PmsUser;
+import cn.cjf.facade.biz.PmsUserFacade;
 import cn.cjf.web.base.BaseAction;
 import cn.cjf.web.common.constant.SessionConstant;
 import cn.cjf.web.enums.UserStatusEnum;

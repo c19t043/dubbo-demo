@@ -1,7 +1,7 @@
 package cn.cjf.web.base;
 
 
-import cn.cjf.common.entity.PmsUser;
+import cn.cjf.facade.entity.PmsUser;
 
 public interface UserLoginedAware {
 
