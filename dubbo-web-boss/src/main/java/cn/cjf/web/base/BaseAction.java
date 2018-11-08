@@ -1,9 +1,9 @@
 package cn.cjf.web.base;
 
 
+import cn.cjf.common.web.constant.SessionConstant;
+import cn.cjf.common.web.struts.Struts2ActionSupport;
 import cn.cjf.facade.entity.PmsUser;
-import cn.cjf.web.common.constant.SessionConstant;
-import cn.cjf.web.common.struts.Struts2ActionSupport;
 
 /**
  * @描述: Web系统权限模块基础支撑Action.

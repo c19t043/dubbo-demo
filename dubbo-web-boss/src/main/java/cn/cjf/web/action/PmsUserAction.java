@@ -1,11 +1,11 @@
 package cn.cjf.web.action;
 
 import cn.cjf.common.page.PageBean;
-import cn.cjf.facade.biz.PmsUserFacade;
+import cn.cjf.facade.service.PmsUserFacade;
 import cn.cjf.facade.entity.PmsUser;
 import cn.cjf.web.base.BaseAction;
-import cn.cjf.web.enums.UserStatusEnum;
-import cn.cjf.web.enums.UserTypeEnum;
+import cn.cjf.facade.enums.UserStatusEnum;
+import cn.cjf.facade.enums.UserTypeEnum;
 import org.apache.commons.codec.digest.DigestUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.logging.Log;

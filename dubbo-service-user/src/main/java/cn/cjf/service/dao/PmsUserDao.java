@@ -1,8 +1,8 @@
 package cn.cjf.service.dao;
 
 
+import cn.cjf.common.core.dao.BaseDao;
 import cn.cjf.facade.entity.PmsUser;
-import cn.cjf.service.core.dao.BaseDao;
 
 /**
  * @描述: 用户表数据访问层接口.

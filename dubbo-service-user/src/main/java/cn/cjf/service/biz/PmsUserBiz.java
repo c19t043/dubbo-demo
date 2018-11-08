@@ -3,7 +3,7 @@ package cn.cjf.service.biz;
 import cn.cjf.facade.entity.PmsUser;
 import cn.cjf.common.page.PageBean;
 import cn.cjf.common.page.PageParam;
-import cn.cjf.facade.biz.PmsUserFacade;
+import cn.cjf.facade.service.PmsUserFacade;
 import cn.cjf.service.dao.PmsUserDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

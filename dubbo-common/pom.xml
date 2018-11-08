@@ -11,5 +11,5 @@
 
     <artifactId>dubbo-common</artifactId>
 
-
+    <packaging>jar</packaging>
 </project>
